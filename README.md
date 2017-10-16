@@ -1,4 +1,4 @@
-ProjectBMSReader
+BMSReader
 ============
 
 Hello. Thanks read my source code.
